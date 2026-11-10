@@ -12,13 +12,13 @@
 
 <br/>
 
-<img src="assets/h-player.svg" alt="Player 1" width="100%"/>
+<img src="assets/h-player.svg" alt="Character sheet" width="100%"/>
 
 <div align="center">
-<img src="assets/player.svg" alt="Player card: Danilo Mercado" width="100%"/>
+<img src="assets/player.svg" alt="Character sheet: Danilo Mercado, wizard" width="100%"/>
 </div>
 
-Software developer from Rosario, Santa Fe. I build web apps from the React interface down to the database, and I know the network and servers they run on, because I also work as a network infrastructure technician.
+Wizard of the full stack from Rosario, Santa Fe. I build web apps from the React interface down to the database, and I know the network and servers they run on, because I also work as a network infrastructure technician.
 
 I like to understand the problem before writing code, and I try to keep solutions simple and modular. Right now I'm looking for a full-time, on-site role in Rosario (driver's license B1/B2 and own vehicle).
 
@@ -48,7 +48,7 @@ I like to understand the problem before writing code, and I try to keep solution
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-<img src="assets/h-inventory.svg" alt="Inventory" width="100%"/>
+<img src="assets/h-inventory.svg" alt="Spellbook" width="100%"/>
 
 <div align="center">
 <img src="assets/inventory.svg" alt="Tech stack: C# ASP.NET Core, Node, Python, React, TypeScript, Tailwind, PostgreSQL, SQL Server, Docker, Azure" width="100%"/>
@@ -56,7 +56,7 @@ I like to understand the problem before writing code, and I try to keep solution
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-<img src="assets/h-levels.svg" alt="Level select" width="100%"/>
+<img src="assets/h-levels.svg" alt="Artifacts" width="100%"/>
 
 <table>
   <tr>
@@ -83,15 +83,15 @@ I like to understand the problem before writing code, and I try to keep solution
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-<img src="assets/h-save.svg" alt="Save point" width="100%"/>
+<img src="assets/h-save.svg" alt="The academy" width="100%"/>
 
 **University Technician in Programming**, UTN Rosario (FRRO), graduated 2023. Algorithms, data structures, modular logic and relational databases. English: intermediate.
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-<img src="assets/h-start.svg" alt="Press start" width="100%"/>
+<img src="assets/h-start.svg" alt="Send a raven" width="100%"/>
 
-If you have an opening or a project and want to talk about React, .NET, AI agents or networks, write me.
+Got an opening or a quest that needs a mage? If you want to talk about React, .NET, AI agents or networks, send a raven (or an email).
 
 <div align="center">
 
@@ -101,6 +101,6 @@ If you have an opening or a project and want to talk about React, .NET, AI agent
 
 <br/><br/>
 
-<img src="assets/footer.svg" alt="Insert coin to hire me" width="100%"/>
+<img src="assets/footer.svg" alt="Recruit this wizard to your party" width="100%"/>
 
 </div>
