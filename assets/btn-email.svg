@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60" shape-rendering="crispEdges"><style>
+.tw{animation:tw 2s steps(2) infinite}@keyframes tw{0%{opacity:1}50%{opacity:.15}}
+.bl{animation:bl 1s steps(1) infinite}@keyframes bl{0%,59%{opacity:1}60%,100%{opacity:0}}
+.walk{animation:walk 18s linear infinite}@keyframes walk{from{transform:translateX(-70px)}to{transform:translateX(930px)}}
+.bob{animation:bob .5s steps(1) infinite}@keyframes bob{0%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.fa{animation:fa .5s steps(1) infinite}@keyframes fa{0%{opacity:1}50%{opacity:0}}
+.fb{animation:fb .5s steps(1) infinite}@keyframes fb{0%{opacity:0}50%{opacity:1}}
+.idle{animation:bob 1s steps(1) infinite}
+</style><rect width="220" height="60" fill="#EA4335"/><rect x="4" y="4" width="212" height="52" fill="#241830"/><rect x="4" y="48" width="212" height="8" fill="#EA4335" opacity=".35"/><path d="M66 20h15v3h-15zM66 23h3v3h-3zM66 26h3v3h-3zM66 29h12v3h-12zM66 32h3v3h-3zM66 35h3v3h-3zM66 38h15v3h-15zM84 20h3v3h-3zM96 20h3v3h-3zM84 23h6v3h-6zM93 23h6v3h-6zM84 26h3v3h-3zM90 26h3v3h-3zM96 26h3v3h-3zM84 29h3v3h-3zM90 29h3v3h-3zM96 29h3v3h-3zM84 32h3v3h-3zM96 32h3v3h-3zM84 35h3v3h-3zM96 35h3v3h-3zM84 38h3v3h-3zM96 38h3v3h-3zM105 20h9v3h-9zM102 23h3v3h-3zM114 23h3v3h-3zM102 26h3v3h-3zM114 26h3v3h-3zM102 29h15v3h-15zM102 32h3v3h-3zM114 32h3v3h-3zM102 35h3v3h-3zM114 35h3v3h-3zM102 38h3v3h-3zM114 38h3v3h-3zM123 20h9v3h-9zM126 23h3v3h-3zM126 26h3v3h-3zM126 29h3v3h-3zM126 32h3v3h-3zM126 35h3v3h-3zM123 38h9v3h-9zM138 20h3v3h-3zM138 23h3v3h-3zM138 26h3v3h-3zM138 29h3v3h-3zM138 32h3v3h-3zM138 35h3v3h-3zM138 38h15v3h-15z" fill="#E5E7EB" /></svg>
